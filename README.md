@@ -89,7 +89,14 @@ Amazon:
 ```
 https://www.amazon.com/s?k=gaming+mouse&language=es&_encoding=UTF8&content-id=amzn1.sym.8148f1e1-83ed-498f-85be-ff288b197da7&pd_rd_r=d802ef30-2ad7-430f-b7ec-b5dc31e02478&pd_rd_w=cYFhX&pd_rd_wg=gVbFZ&pf_rd_p=8148f1e1-83ed-498f-85be-ff288b197da7&pf_rd_r=KMECK499C701MHB8A56R&ref=pd_gw_unk
 ```
-
 En este caso se almacena información relacionada con los productos, los
 términos de la búsqueda entre otras variables.
+
+### Información Adicional
+
+* Debes agregar libros con información real.
+* Puedes generar un directorio con datos reales de alguna fuente abierta.
+* Puedes agregegar otros elementos a la página, imágenes, etc.
+* Es importante *no* darle estilo a la página. 
+
 
