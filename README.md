@@ -1,4 +1,4 @@
-## Proyecto 1 
+# Proyecto 1 
 
 En este primer proyecto vamos a desarrollar una applicación web sencilla
 utilizando solamente la librería estándar de python y *Redis* un almacen de
