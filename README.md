@@ -43,6 +43,11 @@ páginas que hasta este momento son estáticas.
 
 ### Sesiones
 
+#### Lecturas Relacionadas
+* [Using HTTP Cookies MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
+* [Librería http.cookies de Python](https://docs.python.org/3/library/http.cookies.html)
+* [Types of attacks MDN](https://developer.mozilla.org/en-US/docs/Web/Security/Types_of_attacks)
+  
 #### Una sesión para cada usuario
 
 Utilizando Cookies, genera una sesión distinta para cada usuario que llegue al
