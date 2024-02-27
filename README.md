@@ -56,7 +56,13 @@ de sesión al final de la página. La sesión debe vencer en 10 segundos.
 
 Es una buena idea utilizar un generador de identificadores para que cada número
 de sesión sea único. Puedes utilizar el módulo
-[uuid](https://docs.python.org/3/library/uuid.html#uuid.uuid4).
+[uuid](https://docs.python.org/3/library/uuid.html#uuid.uuid4). 
+
+#### Preguntas de repaso
+Según las lecturas: 
+* ¿Qué tipo de ataque se trata de evitar al crear nuevas cookies para cada sesión?. 
+* ¿Qué otros atriburos son importantes para la seguridad de las cookies cuándo se usan para sesiones?
+* ¿Cómo evitamos un ataque de CSRF?
 
 
 #### Rastreo de la navegación 
