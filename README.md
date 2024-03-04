@@ -1,4 +1,4 @@
-# Proyecto 1 
+# Good Reads 
 
 En este primer proyecto vamos a desarrollar una applicación web sencilla
 utilizando solamente la librería estándar de python y *Redis* un almacen de
